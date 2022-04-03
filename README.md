@@ -10,6 +10,11 @@ LSA stands for Layer Sustainability Analysis for the analysis of layer vulnerabi
 [![Documentation Status](./imgs/bdg.svg)](#)
 [![Release Status](https://img.shields.io/github/release/khalooei/LSA.svg?&color=blue)](https://github.com/khalooei/LSA/releases)
 
+## Some related ntoes
+ - Adversarial vulnerability of powerful near out-of-distribution detection
+ - Greedy Layer-Wise Training of Deep Networks
+
+
 ## Overview
 Sustainability and vulnerability in different domains have many definitions. In our case, the focus is on certain vulnerabilities that fool deep learning models in the feed-forward propagation approach. One main concentration is therefore on the analysis of forwarding vulnerability effects of deep neural networks in the adversarial domain. Analyzing the vulnerabilities of deep neural networks helps better understand different behaviors in dealing with input perturbations in order to attain more robust and sustainable models.
 
